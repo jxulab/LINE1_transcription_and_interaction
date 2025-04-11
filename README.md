@@ -32,8 +32,8 @@ The analyses are implemented in R and Bash and are organized into seven main scr
 - Evaluates enrichment of ChromHMM features at LINE1-interacting regions.
 
 ### 7. `Chromunity_analysis.R`
-- Performs higher-order synergy (Chromunity) analysis across three cell lines and ASO-KD data.
-- Compares HILLs with detected synergistic events.
+- Performs higher-order synergy (Chromunity) analysis across three cell lines and LINE-1 ASO knockdown data.
+- Compares HILLs with detected 'Chromunity' events.
 
 ---
 
